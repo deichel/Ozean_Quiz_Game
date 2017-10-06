@@ -1,0 +1,36 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Lebewesen",
+          "type": "LEBEWESEN"
+        },
+        {
+          "name": "DerLebensraum",
+          "type": "LEBENSRAUM"
+        },
+        {
+          "name": "DieKlasse",
+          "type": "KLASSE"
+        }
+      ],
+      "intent": "AnswerIntent"
+    },
+    {
+      "intent": "QuizIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    },
+    {
+      "intent": "AMAZON.StartOverIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    }
+  ]
+}
