@@ -1,0 +1,22 @@
+AnswerIntent {Lebewesen}
+AnswerIntent {Lebewesen} Informationen
+AnswerIntent Sag mir was über {Lebewesen}
+AnswerIntent Sag mir was zum {Lebewesen}
+AnswerIntent Sag mir was zur {Lebewesen}
+AnswerIntent Informationen zu {Lebewesen}
+AnswerIntent Informationen zum {Lebewesen}
+AnswerIntent Erzähl mir was über {Lebewesen}
+AnswerIntent erzähl mir was zum {Lebewesen}
+AnswerIntent erzähl mir was zur {Lebewesen}
+AnswerIntent was weist du über {Lebewesen}
+AnswerIntent {DerLebensraum}
+AnswerIntent {DieKlasse}
+QuizIntent starte ein quiz
+QuizIntent starte ein quiz game
+QuizIntent starte ein quiz spiel
+QuizIntent nach einem quiz
+QuizIntent nach einem quiz game
+QuizIntent nach einem quiz spiel
+QuizIntent ein quiz
+QuizIntent ein quiz game
+QuizIntent ein quiz spiel
