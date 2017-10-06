@@ -4,3 +4,7 @@ Meere und Ozeane sind Klimamaschine, Nahrungsquelle, Wirtschaftsraum und Heimat 
 https://www.wissenschaftsjahr.de/2016-17/
 Dieser Alexa Skill ist nicht vom Wissenschaftsjahr gefördert und für den Ocean Game Jam Berlin 2017 erstellt.
 http://www.oceangamejam.de
+
+
+Basiert auf:
+https://github.com/alexa/skill-sample-nodejs-quiz-game
